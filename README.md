@@ -1,7 +1,7 @@
 # code4fun_flutter_2024
 
 A new Flutter project in code4fun
-B Flutter project in code4fun--by abdul Razeq
+B Flutter project in code4fun--by 1- abdul Razeq ,2- sajad nowroozi
 
 ## Getting Started
 
